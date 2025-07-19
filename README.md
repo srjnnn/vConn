@@ -1,25 +1,25 @@
 # 🌍 V-Conn – Volunteer Connection Platform for NGOs and Clubs
 
-**V-Conn** (short for *Volunteer Connect*) is a platform designed to connect motivated individuals with meaningful volunteer opportunities offered by NGOs and Local Clubs. It helps users discover causes they care about and empowers organizations to find the right people to drive impact.
+**V-Conn** (short for *Volunteer Connect*) is a platform designed to connect motivated individuals with meaningful volunteer opportunities offered by NGOs and local clubs. It helps users discover causes they care about and empowers organizations to find the right people to drive impact.
 
 ---
 
 ## 🚀 Purpose
 
-Many NGOs and Clubs face challenges finding reliable, skill-matched volunteers, while countless students and professionals want to give back but don’t know where to begin. **V-Conn** bridges this gap through a smart matchmaking system that connects volunteers with the right organizations based on:
+Many NGOs and local clubs face challenges finding reliable, skill-matched volunteers, while countless students and professionals want to give back but don’t know where to begin. **V-Conn** bridges this gap through a smart matchmaking system that connects volunteers with the right organizations based on:
 
-- Personal interests
-- Skills and expertise
-- Availability
-- Geographic location
+- Personal interests  
+- Skills and expertise  
+- Availability  
+- Geographic location  
 
 ---
 
 ## 🔑 Key Features
 
-- ✅ **Volunteer Profiles** – Set up your bio, interests, location & availability.
-- 🏢 **NGO/INGO Dashboard** – Post volunteer needs, manage events, and view applicants.
-- 🤝 **Matchmaking Engine** – Smart filters to suggest the right causes and volunteers.
+- ✅ **Volunteer Profiles** – Set up your bio, interests, location, and availability.
+- 🏢 **NGO/Club Dashboard** – Post volunteer needs, manage events, and view applicants.
+- 🤝 **Matchmaking Engine** – Smart filters to suggest relevant causes and volunteers.
 - 📅 **Event Calendar & Notifications** – Stay updated on upcoming volunteering events.
 - 🧾 **Impact Tracker** – Track hours served and generate contribution certificates.
 - 🌍 **Location-Aware Listings** – Find opportunities nearby or online.
@@ -29,14 +29,14 @@ Many NGOs and Clubs face challenges finding reliable, skill-matched volunteers, 
 
 ## 🧱 Tech Stack
 
-| Frontend         | Backend          | Database         | Auth & Hosting       |
-|------------------|------------------|------------------|----------------------|
-| React + Vite     | Node.js + Express| Supabase / MongoDB| Supabase / Firebase  |
+| Frontend         | Backend          | Database           | Auth & Hosting       |
+|------------------|------------------|--------------------|----------------------|
+| React + Vite     | Node.js + Express| Supabase / MongoDB | Supabase / Firebase  |
 
 Extras:
-- Tailwind CSS for responsive UI
-- Mapbox or Google Maps API for geolocation
-- Nodemailer for communication
+- Tailwind CSS for responsive UI  
+- Mapbox or Google Maps API for geolocation  
+- Nodemailer for communication  
 
 ---
 
@@ -50,35 +50,36 @@ Phase 1 will include user registration, NGO posting system, and opportunity list
 
 ## 🎯 Goals
 
-- Promote active youth engagement and social contribution
-- Provide NGOs/INGOs with a reliable volunteer pool
-- Offer a clean, easy-to-use interface for both sides
-- Track real-time social impact
+- Promote active youth engagement and social contribution  
+- Provide NGOs/clubs with a reliable volunteer pool  
+- Offer a clean, easy-to-use interface for both sides  
+- Track real-time social impact  
 
 ---
 
 ## 🔮 Future Plans
 
-- 🌐 Multi-language support (Nepali + English)
-- 🛡️ NGO verification system
-- 📲 Mobile App (React Native or Flutter)
-- 📈 Volunteer leaderboards and community rewards
-- 📎 Offline volunteering campaign support (e.g. health camps, clean-up drives)
+- 🌐 Multi-language support (Nepali + English)  
+- 🛡️ NGO verification system  
+- 📲 Mobile App (React Native or Flutter)  
+- 📈 Volunteer leaderboards and community rewards  
+- 📎 Offline volunteering campaign support (e.g., health camps, clean-up drives)  
 
 ---
 
-## 🙌 Contributing
+## 🙌 Contributors
 
-This project is led and maintained by **[Srijan Kharel](https://www.srijankharel.com.np)**  
+**Project Lead:**  
+- [Srijan Kharel](https://www.srijankharel.com.np)
 
-**Opensource-partners:**
-     **Frontend Developers**
-         -Ujjwal Khatiwada
-         -Rijan Gautam
-     **Designer :**
-         -PrajwalGautam
+**Open Source Collaborators:**  
+- 🖥️ **Frontend Developers:**  
+  - Ujjwal Khatiwada  
+  - Rijan Gautam  
+- 🎨 **UI/UX Designer:**  
+  - Prajwal Gautam
 
-If you’re a designer, developer, NGO, or supporter — you’re welcome to contribute!
+If you're a developer, designer, NGO/club, or supporter — you're welcome to contribute!
 
 ---
 
@@ -98,4 +99,3 @@ Got ideas or want to partner with V-Conn?
 **V-Conn** is more than just an app — it’s a mission to make *impact accessible* for everyone.
 
 ---
-
