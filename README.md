@@ -75,7 +75,8 @@ Phase 1 will include user registration, NGO posting system, and opportunity list
 **Open Source Collaborators:**  
 - 🖥️ **Frontend Developers:**  
   - Ujjwal Khatiwada  
-  - Rijan Gautam  
+  - Rijan Gautam
+  - Prajwal Gautam  
 - 🎨 **UI/UX Designer:**  
   - Prajwal Gautam
 
